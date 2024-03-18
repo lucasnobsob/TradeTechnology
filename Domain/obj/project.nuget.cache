@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ns+84onlbaanMWf925tMqFeQTcTzISOSRU0hp05j/2ba/J84qAmfCt628htM/nVl/Biq3iFLo1jz4pP6SOsh6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\Documents\\TradeTechnology\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\mongodb.bson\\2.24.0\\mongodb.bson.2.24.0.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
